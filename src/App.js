@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+const spotify_api_key = process.env.REACT_APP_SPOTIFY_KEY
 
 function App() {
   return (
